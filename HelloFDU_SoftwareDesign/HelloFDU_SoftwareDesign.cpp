@@ -5,7 +5,7 @@
 
 using namespace std;
 
-#define VERSION "Hello CSCI 3315/6620 Version 0.1"
+#define VERSION "Hello CSCI 3315/6620 Version 0.2"
 
 /* 
  * HelloFDU_SoftwareDesign intended as hello world to introduce the class to management of source code being developer concurrently by multiple developers
