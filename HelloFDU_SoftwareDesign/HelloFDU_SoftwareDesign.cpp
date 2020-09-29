@@ -5,7 +5,7 @@
 
 using namespace std;
 
-#define VERSION "Hello CSCI 3315/6620 Version 0.4"
+#define VERSION "Hello CSCI 3315/6620 Version 0.5"
 
 /* 
  * HelloFDU_SoftwareDesign intended as hello world to introduce the class to management of source code being developer concurrently by multiple developers
@@ -24,5 +24,6 @@ int main()
 {
     cout << VERSION << "\n\n";
     cout << "Hello FDU Software Design Class from Professor Vallone!\n";
+    cout << "Hello friends -Michael LaNeve\n";
     cout << "Hello FDU Software Design Class from Chariane Nkengfack!\n";
 }
